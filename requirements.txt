@@ -1,0 +1,10 @@
+# Minimum versions inferred from the notebook outputs (Python 3.13).
+# For an exact record, run `pip freeze > requirements_exact.txt` in your venv and submit that too.
+numpy>=2.0
+pandas>=3.0
+scikit-learn>=1.9
+imbalanced-learn>=0.13
+matplotlib>=3.9
+seaborn>=0.13
+jupyter
+ipykernel
